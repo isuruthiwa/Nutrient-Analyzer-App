@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Soil Nutrient Analyzer</string>
+    <string-array name="nutrients">
+        <item>Nitrogen [N]</item>
+        <item>Phosphorus [P]</item>
+        <item>Potassium [K]</item>
+    </string-array>
+</resources>

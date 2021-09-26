@@ -1,0 +1,6 @@
+<paths>
+    <files-path name="app_directory" path="NutrientAnalyzer/"/>
+    <files-path
+        name="data"
+        path="./"/>
+</paths>
